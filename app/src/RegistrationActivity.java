@@ -76,3 +76,4 @@ public class RegistrationActivity extends AppCompatActivity {
         person.requestFocus();
     }
 }
+
